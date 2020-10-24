@@ -267,6 +267,9 @@ font-family: 'Cairo', sans-serif;
         margin-top: 40px;
         text-align: center;
     }
+    body{
+        overflow-x: hidden;
+    }
 }
 @media(max-width:400px){
     .card-carousel .my-card {
@@ -280,5 +283,8 @@ font-family: 'Cairo', sans-serif;
         cursor: pointer;
         pointer-events: none;
         transition: 1s;
+      }
+      body{
+          overflow-x: hidden;
       }
   }
