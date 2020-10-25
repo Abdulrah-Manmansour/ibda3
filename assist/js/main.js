@@ -10,11 +10,11 @@ $(document).ready(function(){
     responsive:{
         0:{
             items:1,
-            nav:false,
-            margin:-40
+            nav:true,
+            margin:10
         },
         600:{
-            items:2,
+            items:1,
             nav:true,
             margin:-20
         },
@@ -37,7 +37,7 @@ $(document).ready(function(){
     responsiveClass:true,
     responsive:{
         0:{
-            items:2,
+            items:1,
             nav:false,
             margin:90
         },

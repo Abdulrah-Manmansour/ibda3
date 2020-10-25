@@ -53,7 +53,7 @@
 
 .item-work2{
     background-color: #fff;
-    box-shadow: 2px 2px 8px black,-2px -2px 8px black;
+    box-shadow: 3px 3px 10px #b9b9b9,-3px -3px 10px #b9b9b9;
     height: 330px;
     border-radius: 20px;
   margin: auto;
@@ -61,7 +61,7 @@
 }
 .item-work3{
     background-color: #fff;
-    box-shadow: 2px 2px 8px black,-2px -2px 8px black;
+    box-shadow: 3px 3px 10px #b9b9b9,-3px -3px 10px #b9b9b9;
     height: 330px;
     border-radius: 20px;
     transform: translateX(-180px);
