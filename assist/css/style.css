@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    overflow-x: hdden;
+    overflow-x: hidden;
 }
 
 /*start navbar*/
@@ -356,7 +356,7 @@ font-family: 'Cairo', sans-serif;
         }
         .item-work3{
             background-color: #fff;
-            box-shadow: 2px 2px 8px black,-2px -2px 8px black;
+            
             height: 335px;
             border-radius: 20px;
             margin-bottom: 55px;
@@ -398,7 +398,7 @@ font-family: 'Cairo', sans-serif;
         }
         .item-work3{
             background-color: #fff;
-            box-shadow: 2px 2px 8px black,-2px -2px 8px black;
+            
             height: 335px;
             border-radius: 20px;
             margin-bottom: 55px;
@@ -448,7 +448,7 @@ font-family: 'Cairo', sans-serif;
         }
         .item-work3{
             background-color: #fff;
-            box-shadow: 2px 2px 8px black,-2px -2px 8px black;
+         
             height: 335px;
             border-radius: 20px;
             margin-bottom: 55px;
@@ -498,7 +498,7 @@ font-family: 'Cairo', sans-serif;
             }
             .item-work3{
                 background-color: #fff;
-                box-shadow: 2px 2px 8px black,-2px -2px 8px black;
+               
                 height: 335px;
                 border-radius: 20px;
                 margin-bottom: 55px;
