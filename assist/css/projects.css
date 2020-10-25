@@ -89,6 +89,7 @@ html body {
     position: relative;
     margin-bottom: 50px;
     transform: translateX(-40px);
+    overflow: hidden;
   }
   
   .card-carousel .my-card {
@@ -269,6 +270,7 @@ font-family: 'Cairo', sans-serif;
     }
     body{
         overflow-x: hidden;
+        
     }
 }
 @media(max-width:400px){
