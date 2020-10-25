@@ -81,10 +81,7 @@ html body {
  
 
  /*start slider */
-.cont100{
-max-width: 100%;
-overflow: hidden;
-}
+
  .card-carousel {
     display: flex;
     align-items: center;
