@@ -81,7 +81,10 @@ html body {
  
 
  /*start slider */
-
+.cont100{
+max-width: 100%;
+overflow: hidden;
+}
  .card-carousel {
     display: flex;
     align-items: center;
@@ -89,7 +92,7 @@ html body {
     position: relative;
     margin-bottom: 50px;
     transform: translateX(-40px);
-    overflow: hidden;
+    
   }
   
   .card-carousel .my-card {
