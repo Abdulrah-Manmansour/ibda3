@@ -78,16 +78,13 @@ html body {
      margin-bottom: 60px;
  }
  /*end buttons*/
- 
-
  /*start slider */
-
  .card-carousel {
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
-    margin-bottom: 50px;
+    margin-bottom: 90px;
     transform: translateX(-40px);
     
   }
