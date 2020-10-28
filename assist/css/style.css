@@ -67,6 +67,8 @@ padding:50px;
 font-weight: 300;
 font-size: 25px;
 transform:translateX(-100px);
+font-family: 'Cairo', sans-serif;
+
 }
 .border-bootm{
     width: 60px;
